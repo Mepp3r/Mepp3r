@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mepper 👨‍💻</h1>
 
-<!--
-**Mepp3r/Mepp3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">I work with <strong>automation processes in civil engineering</strong>.</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About me
+
+```txt
+💻 Coding automation tools  
+🔧 Using Python, JavaScript, and C#  
+🏗️ Engineering meets technology  
+🧱 Keeping it simple and efficient  
+```
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mepper&show_icons=true&count_private=true&hide=stars&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mepper&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub" />
+</p>
+
+---
+
+```bash
+$ run --automation --civil
+> building systems...
+> optimizing workflows...
+> automation complete.
+```
+
+---
+
+> 🚀 Always building. Always automating.
