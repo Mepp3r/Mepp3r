@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mepper 👨‍💻</h1>
+<h1 align="center">Hi, I'm Mepper</h1>
 
 <p align="center">I work with <strong>automation processes in civil engineering</strong>.</p>
 
@@ -28,8 +28,8 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mepper&show_icons=true&count_private=true&hide=stars&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mepper&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mepper&show_icons=true&count_private=true&hide=stars&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mepper&layout=compact&langs_count=7&hide_border=true"/>
 </p>
 
 ---
