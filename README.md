@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mepper</h1>
 
-<p align="center">I work with <strong>automation processes in civil engineering</strong>.</p>
+<p align="center">I work with <strong>process automation and web development</strong>.</p>
 
 ---
 
@@ -9,7 +9,6 @@
 ```txt
 💻 Coding automation tools  
 🔧 Using Python, JavaScript, and C#  
-🏗️ Engineering meets technology  
 🧱 Keeping it simple and efficient  
 ```
 
@@ -45,7 +44,7 @@
 ---
 
 ```bash
-$ run --automation --civil
+$ run --automation
 > building systems...
 > optimizing workflows...
 > automation complete.
